@@ -1,0 +1,183 @@
+[I 11:50:23.255 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 11:50:23.255 NotebookApp] 0 active kernels
+[I 11:50:23.255 NotebookApp] The Jupyter Notebook is running at:
+[I 11:50:23.255 NotebookApp] http://localhost:8888/?token=94218f778c6971a0f13f4acde7ca15114f2bcbd8f00c6371
+[I 11:50:23.255 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:50:23.255 NotebookApp] No web browser found: could not locate runnable browser.
+[C 11:50:23.255 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=94218f778c6971a0f13f4acde7ca15114f2bcbd8f00c6371
+[I 11:51:27.695 NotebookApp] 302 GET /?token=94218f778c6971a0f13f4acde7ca15114f2bcbd8f00c6371 (127.0.0.1) 0.57ms
+[I 11:51:52.416 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 11:51:52.422 NotebookApp] Notebook src/cocoapi/PythonAPI/pycocoDemo.ipynb is not trusted
+[I 11:51:53.743 NotebookApp] Kernel started: 1b5e0c1b-69da-4b43-9045-5bbe6c23e849
+[I 11:51:54.860 NotebookApp] Adapting to protocol v5.1 for kernel 1b5e0c1b-69da-4b43-9045-5bbe6c23e849
+[I 11:53:55.413 NotebookApp] Saving file at /src/cocoapi/PythonAPI/pycocoDemo.ipynb
+[W 11:53:55.414 NotebookApp] Notebook src/cocoapi/PythonAPI/pycocoDemo.ipynb is not trusted
+[I 11:55:03.472 NotebookApp] 302 GET /?token=94218f778c6971a0f13f4acde7ca15114f2bcbd8f00c6371 (127.0.0.1) 0.49ms
+[W 11:55:07.601 NotebookApp] Notebook pycocoDemo.ipynb is not trusted
+[I 11:55:09.856 NotebookApp] Kernel started: 9d724975-74eb-4762-9269-75a1010a4374
+[I 11:55:10.335 NotebookApp] Adapting to protocol v5.1 for kernel 9d724975-74eb-4762-9269-75a1010a4374
+[I 11:57:12.163 NotebookApp] Saving file at /pycocoDemo.ipynb
+[W 11:57:12.164 NotebookApp] Notebook pycocoDemo.ipynb is not trusted
+[I 11:59:06.587 NotebookApp] The port 8888 is already in use, trying another port.
+[I 11:59:06.594 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 11:59:06.594 NotebookApp] 0 active kernels
+[I 11:59:06.594 NotebookApp] The Jupyter Notebook is running at:
+[I 11:59:06.594 NotebookApp] http://localhost:8889/?token=cffd7c70dbf7e7df46581301eda451ca8754dab393d860af
+[I 11:59:06.594 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:59:06.594 NotebookApp] No web browser found: could not locate runnable browser.
+[C 11:59:06.595 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=cffd7c70dbf7e7df46581301eda451ca8754dab393d860af
+[C 12:01:25.350 NotebookApp] received signal 15, stopping
+[I 12:01:25.351 NotebookApp] Shutting down 0 kernels
+[C 12:01:25.442 NotebookApp] received signal 15, stopping
+[I 12:01:25.443 NotebookApp] Shutting down 2 kernels
+[I 12:01:25.445 NotebookApp] Kernel shutdown: 1b5e0c1b-69da-4b43-9045-5bbe6c23e849
+[I 12:01:25.546 NotebookApp] Kernel shutdown: 9d724975-74eb-4762-9269-75a1010a4374
+[I 12:09:33.757 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 12:09:34.411 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 12:09:34.411 NotebookApp] 0 active kernels
+[I 12:09:34.411 NotebookApp] The Jupyter Notebook is running at:
+[I 12:09:34.411 NotebookApp] http://localhost:8888/?token=82ee939c428dff5c357015c6ac112b170ffff064244bf7c6
+[I 12:09:34.411 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:09:34.411 NotebookApp] No web browser found: could not locate runnable browser.
+[C 12:09:34.411 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=82ee939c428dff5c357015c6ac112b170ffff064244bf7c6
+[I 12:09:58.656 NotebookApp] 302 GET /?token=82ee939c428dff5c357015c6ac112b170ffff064244bf7c6 (127.0.0.1) 0.61ms
+[W 12:10:21.437 NotebookApp] Notebook pycocoDemo.ipynb is not trusted
+[I 12:10:23.064 NotebookApp] Kernel started: 8cb2524f-279a-4b73-9b39-340a079c8043
+[I 12:10:24.213 NotebookApp] Adapting to protocol v5.1 for kernel 8cb2524f-279a-4b73-9b39-340a079c8043
+[C 12:11:31.484 NotebookApp] received signal 15, stopping
+[I 12:11:31.487 NotebookApp] Shutting down 1 kernel
+[I 12:11:31.588 NotebookApp] Kernel shutdown: 8cb2524f-279a-4b73-9b39-340a079c8043
+[I 13:31:19.155 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 13:31:19.820 NotebookApp] Serving notebooks from local directory: /home/ubuntu/coco
+[I 13:31:19.820 NotebookApp] 0 active kernels
+[I 13:31:19.820 NotebookApp] The Jupyter Notebook is running at:
+[I 13:31:19.820 NotebookApp] http://localhost:8888/?token=d4e08cebbd6627b7596ff6898cf29af241dba57f401a94eb
+[I 13:31:19.820 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 13:31:19.820 NotebookApp] No web browser found: could not locate runnable browser.
+[C 13:31:19.821 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d4e08cebbd6627b7596ff6898cf29af241dba57f401a94eb
+[I 13:31:42.650 NotebookApp] 302 GET /?token=d4e08cebbd6627b7596ff6898cf29af241dba57f401a94eb (127.0.0.1) 0.58ms
+[W 13:31:52.989 NotebookApp] Notebook pycocoDemoLB.ipynb is not trusted
+[I 13:31:54.858 NotebookApp] Kernel started: 635c6402-fa87-4e92-8bc2-ed8756cd8e82
+[I 13:31:55.861 NotebookApp] Adapting to protocol v5.1 for kernel 635c6402-fa87-4e92-8bc2-ed8756cd8e82
+[I 13:33:57.506 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[W 13:33:57.507 NotebookApp] Notebook pycocoDemoLB.ipynb is not trusted
+[I 13:35:56.490 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[W 13:35:56.491 NotebookApp] Notebook pycocoDemoLB.ipynb is not trusted
+[I 13:37:57.685 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[W 13:37:57.686 NotebookApp] Notebook pycocoDemoLB.ipynb is not trusted
+[I 13:39:56.550 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[W 13:39:56.550 NotebookApp] Notebook pycocoDemoLB.ipynb is not trusted
+[I 13:49:57.253 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[W 13:49:57.253 NotebookApp] Notebook pycocoDemoLB.ipynb is not trusted
+[I 13:51:57.255 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[I 13:53:22.543 NotebookApp] Adapting to protocol v5.1 for kernel 635c6402-fa87-4e92-8bc2-ed8756cd8e82
+[I 13:55:24.462 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[I 13:57:24.420 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[I 13:59:24.719 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[I 14:01:25.305 NotebookApp] Saving file at /pycocoDemoLB.ipynb
+[I 14:01:56.241 NotebookApp] Adapting to protocol v5.1 for kernel 635c6402-fa87-4e92-8bc2-ed8756cd8e82
+[C 14:02:53.265 NotebookApp] received signal 15, stopping
+[I 14:02:53.266 NotebookApp] Shutting down 1 kernel
+[I 14:02:53.367 NotebookApp] Kernel shutdown: 635c6402-fa87-4e92-8bc2-ed8756cd8e82
+[I 21:19:53.015 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 21:19:53.614 NotebookApp] Serving notebooks from local directory: /home/ubuntu/coco
+[I 21:19:53.614 NotebookApp] 0 active kernels
+[I 21:19:53.614 NotebookApp] The Jupyter Notebook is running at:
+[I 21:19:53.614 NotebookApp] http://localhost:8888/?token=62ad906d7210c9182006b3397cfccfaae908704e5a890a76
+[I 21:19:53.615 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 21:19:53.615 NotebookApp] No web browser found: could not locate runnable browser.
+[C 21:19:53.615 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=62ad906d7210c9182006b3397cfccfaae908704e5a890a76
+[I 21:20:22.844 NotebookApp] 302 GET /?token=62ad906d7210c9182006b3397cfccfaae908704e5a890a76 (127.0.0.1) 0.61ms
+[I 21:22:30.890 NotebookApp] Kernel started: 020a4aa5-2381-4645-84b5-f20a29d18efa
+[I 21:22:32.049 NotebookApp] Adapting to protocol v5.1 for kernel 020a4aa5-2381-4645-84b5-f20a29d18efa
+[I 21:24:33.433 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:26:33.892 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:28:33.108 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:30:33.590 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:32:32.895 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:34:33.417 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:36:33.092 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:38:33.583 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:40:33.457 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:42:33.509 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:43:20.205 NotebookApp] Adapting to protocol v5.1 for kernel 020a4aa5-2381-4645-84b5-f20a29d18efa
+[I 21:45:22.791 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:46:21.075 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:46:23.992 NotebookApp] Adapting to protocol v5.1 for kernel 020a4aa5-2381-4645-84b5-f20a29d18efa
+[I 21:48:25.319 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:50:27.015 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:52:29.238 NotebookApp] Saving file at /pycocoDemoLB2.ipynb
+[I 21:52:55.221 NotebookApp] Kernel started: fc62b50b-c10f-48d3-8570-a8c961076762
+[I 21:52:55.720 NotebookApp] Adapting to protocol v5.1 for kernel fc62b50b-c10f-48d3-8570-a8c961076762
+[I 21:54:59.764 NotebookApp] Saving file at /pycocoDemoLB3.ipynb
+[I 21:57:00.179 NotebookApp] Saving file at /pycocoDemoLB3.ipynb
+[I 21:58:59.701 NotebookApp] Saving file at /pycocoDemoLB3.ipynb
+[I 22:00:58.966 NotebookApp] Saving file at /pycocoDemoLB3.ipynb
+[I 22:01:15.020 NotebookApp] Kernel started: c62c368a-d927-4b84-bc7d-9d6413c17224
+[I 22:01:15.523 NotebookApp] Adapting to protocol v5.1 for kernel c62c368a-d927-4b84-bc7d-9d6413c17224
+[I 22:01:33.689 NotebookApp] Adapting to protocol v5.1 for kernel 020a4aa5-2381-4645-84b5-f20a29d18efa
+[I 22:02:03.878 NotebookApp] Kernel started: 6e7d4cbb-a1af-47dc-9562-7fe9c80c6ffd
+[I 22:02:04.413 NotebookApp] Adapting to protocol v5.1 for kernel 6e7d4cbb-a1af-47dc-9562-7fe9c80c6ffd
+[I 22:04:07.931 NotebookApp] Saving file at /pycocoDemoLB4.ipynb
+[I 22:06:09.380 NotebookApp] Saving file at /pycocoDemoLB4.ipynb
+[I 22:08:09.813 NotebookApp] Saving file at /pycocoDemoLB4.ipynb
+[I 22:08:33.008 NotebookApp] Kernel started: d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:08:33.498 NotebookApp] Adapting to protocol v5.1 for kernel d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:10:38.913 NotebookApp] Saving file at /pycocoDemoLB5.ipynb
+[I 22:12:44.146 NotebookApp] Saving file at /pycocoDemoLB5.ipynb
+[I 22:14:36.708 NotebookApp] Saving file at /pycocoDemoLB5.ipynb
+[I 22:14:40.140 NotebookApp] Adapting to protocol v5.1 for kernel fc62b50b-c10f-48d3-8570-a8c961076762
+[I 22:15:16.541 NotebookApp] Kernel started: 62bacee8-21db-451b-9a29-82f7f8a17d7b
+[I 22:15:17.025 NotebookApp] Adapting to protocol v5.1 for kernel 62bacee8-21db-451b-9a29-82f7f8a17d7b
+[I 22:15:24.558 NotebookApp] Kernel interrupted: d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:16:00.257 NotebookApp] Kernel shutdown: c62c368a-d927-4b84-bc7d-9d6413c17224
+[I 22:16:00.961 NotebookApp] Kernel shutdown: 020a4aa5-2381-4645-84b5-f20a29d18efa
+[I 22:16:01.564 NotebookApp] Kernel shutdown: 6e7d4cbb-a1af-47dc-9562-7fe9c80c6ffd
+[I 22:16:02.168 NotebookApp] Kernel shutdown: fc62b50b-c10f-48d3-8570-a8c961076762
+[I 22:17:20.336 NotebookApp] Saving file at /pycocoDemoLB6.ipynb
+[I 22:19:19.994 NotebookApp] Saving file at /pycocoDemoLB6.ipynb
+[I 22:20:00.642 NotebookApp] Saving file at /pycocoDemoLB6.ipynb
+[I 22:20:05.463 NotebookApp] Adapting to protocol v5.1 for kernel d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:21:05.914 NotebookApp] Adapting to protocol v5.1 for kernel d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:22:34.768 NotebookApp] Adapting to protocol v5.1 for kernel d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:24:37.868 NotebookApp] Saving file at /pycocoDemoLB5.ipynb
+[I 22:25:36.886 NotebookApp] Saving file at /pycocoDemoLB5.ipynb
+[I 22:25:40.520 NotebookApp] Adapting to protocol v5.1 for kernel d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:26:25.218 NotebookApp] Kernel shutdown: d8923268-6c1d-40d8-aca5-50093446e30b
+[I 22:26:25.821 NotebookApp] Kernel shutdown: 62bacee8-21db-451b-9a29-82f7f8a17d7b
+[I 22:26:57.904 NotebookApp] Kernel started: f2192273-8025-4cf1-956f-7061876c4297
+[I 22:26:58.396 NotebookApp] Adapting to protocol v5.1 for kernel f2192273-8025-4cf1-956f-7061876c4297
+[I 22:29:01.365 NotebookApp] Saving file at /pycocoDemoLB7.ipynb
+[I 22:31:01.056 NotebookApp] Saving file at /pycocoDemoLB7.ipynb
+[I 22:32:15.933 NotebookApp] Saving file at /pycocoDemoLB7.ipynb
+[I 22:32:24.241 NotebookApp] Adapting to protocol v5.1 for kernel f2192273-8025-4cf1-956f-7061876c4297
+[I 22:32:45.080 NotebookApp] Kernel shutdown: f2192273-8025-4cf1-956f-7061876c4297
+[I 22:32:49.347 NotebookApp] Kernel started: b29c916f-cd78-49e1-9b0f-0c8418b0b31e
+[I 22:32:49.974 NotebookApp] Adapting to protocol v5.1 for kernel b29c916f-cd78-49e1-9b0f-0c8418b0b31e
+[I 22:32:52.104 NotebookApp] Kernel started: e92d1193-ab80-48d8-b8fc-16eba97b3898
+[I 22:32:52.687 NotebookApp] Adapting to protocol v5.1 for kernel e92d1193-ab80-48d8-b8fc-16eba97b3898
+[I 22:32:55.611 NotebookApp] Kernel started: 4e9510bd-67ca-4d15-9c63-c2780b6122c9
+[I 22:32:56.099 NotebookApp] Adapting to protocol v5.1 for kernel 4e9510bd-67ca-4d15-9c63-c2780b6122c9
+[I 22:33:56.446 NotebookApp] Kernel shutdown: b29c916f-cd78-49e1-9b0f-0c8418b0b31e
+[I 22:33:56.648 NotebookApp] Kernel shutdown: e92d1193-ab80-48d8-b8fc-16eba97b3898
+[I 22:33:56.851 NotebookApp] Kernel shutdown: 4e9510bd-67ca-4d15-9c63-c2780b6122c9
